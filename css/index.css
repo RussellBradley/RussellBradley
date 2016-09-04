@@ -1,0 +1,26 @@
+body {
+  background-color: #FCFBE3;
+  max-width: 100%
+  overflow-x: hidden;
+}
+
+.staticImage {
+  position: relative;
+  height: auto%;
+  width: auto%;
+  /*padding-right: 50%;*/
+  /*transform: translate(-50%, -50%);*/
+}
+
+.linkPadding1 {
+  position: relative;
+  left: 1%;
+  display: inline;
+}
+
+.linkPadding2 {
+  position: relative;
+  left: 1%;
+  display: inline;
+  padding: 1.4%;
+}
