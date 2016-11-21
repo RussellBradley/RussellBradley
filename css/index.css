@@ -1,26 +1,18 @@
 body {
-  background-color: #FCFBE3;
-  max-width: 100%
-  overflow-x: hidden;
+  background-color: #FCFBE3 !important;
 }
 
-.staticImage {
-  position: relative;
-  height: auto%;
-  width: auto%;
-  /*padding-right: 50%;*/
-  /*transform: translate(-50%, -50%);*/
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
-.linkPadding1 {
-  position: relative;
-  left: 1%;
-  display: inline;
+#rb-name {
+  font-size: 200%;
 }
 
-.linkPadding2 {
-  position: relative;
-  left: 1%;
-  display: inline;
-  padding: 1.4%;
+#rb-resume {
+  font-size: 175%;
 }
