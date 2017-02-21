@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "She ain't ready"
-date:   2017-02-20 20:47:50 -0500
+date:   2017-02-20 20:47:50 
 categories: music song
 ---
 There are so many distractions in life. Things that throw us off. It's easy to become overwhelmed and this happens to most people globally. It's important to know yourself. 
