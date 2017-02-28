@@ -19,8 +19,8 @@ email: me@russellbradley.com
 #   Ramblings usually associated with writing, music, code and hacks.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://russellbradley.com" # the base hostname & protocol for your site
-# twitter_username: rusbra
-github_username:  russellbradley
+twitter_username: rusbra
+# github_username:  russellbradley
 
 # Build settings
 markdown: kramdown
