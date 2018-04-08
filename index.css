@@ -1,0 +1,37 @@
+body {
+        font-family: 'Cardo', serif;
+        text-shadow: .5px .5px .5px;
+        color: #004c00;
+      }
+
+h1 {
+	font-size: 5vw;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.parent {
+  position: relative;
+  max-width: 100%;
+}
+
+.child {
+  position: absolute;
+  top: 20%;
+  left: 5%;
+  transform: translate(0%, -50%);
+  margin-right: 20%;
+  min-width: 90%;
+}
+
+#container {
+    width: 99%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+p {
+	max-width: 750px;
+	width: 90%;
+    margin: 0 auto;
+}
